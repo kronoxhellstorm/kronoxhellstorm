@@ -1,175 +1,158 @@
-# ⚡ Kronox — Systems Engineer | AI Builder | Fullstack Developer
+<!-- HERO -->
+<div align="center">
 
-> I don’t just write code — I design systems.
+# ⚡ Kronox (kronoxhellstorm)
+### Full-Stack Software Engineer • Systems Architect • AI Builder
 
-I'm a Computer Science & AI student at Mahidol University building scalable systems across:
-- 🌐 Fullstack Web Apps
-- 🤖 AI Systems & Multi-Agent Architectures
-- ⚙️ IoT + Embedded Systems
-- 🎮 Game Development (Roblox / Lua)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+code.;Fullstack+Apps+%E2%80%A2+AI+Pipelines+%E2%80%A2+IoT+Systems+%E2%80%A2+Game+Architecture.;Clean+Architecture.+Scalable+Design.+Long-Term+Thinking." />
 
-I focus on **clean architecture, modular design, and long-term scalability** — not quick hacks.
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=kronoxhellstorm&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/kronoxhellstorm?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/kronoxhellstorm?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" />
 
-## 🧩 Core Domains
-
-### 🖥️ Fullstack Engineering
-- Production-grade web apps (Next.js, TypeScript, Go backend)
-- Authentication systems (SuperTokens, OAuth)
-- Payment integration (Stripe)
-- Real-time & API-driven systems
-
-### 🤖 AI Systems
-- Multi-agent architectures (local + orchestrated)
-- AI pipelines (chat, automation, tool execution)
-- LLM integration (local + cloud hybrid)
-- AI-assisted workflows
-
-### ⚙️ IoT / Embedded Systems
-- ESP32 / Arduino systems
-- Sensor integration + automation
-- Real-world system control (Smart Cane, Smart Farming)
-- Node-RED pipelines
-
-### 🎮 Game Development
-- Roblox (Luau) system design
-- RPG progression systems
-- Skill trees, combat systems, data-driven architecture
-- Scalable game backend logic
+</div>
 
 ---
 
-## 🚀 Flagship Projects
+## 🧠 About Me
 
-### 🌍 Eldora (Roblox RPG Universe)
-- Massive fantasy world with:
-  - Race system + evolution tiers
-  - Class progression (Light/Dark paths)
-  - Skill tree architecture
-- Designed for **long-term scalability & expansion**
+I’m **Kronox**, a Full-Stack Software Engineer and AI-focused developer building scalable systems across multiple domains.
 
----
+- 🎓 ICT @ Mahidol University (Computer Science & AI)
+- 🧠 Systems thinker — architecture-first mindset
+- ⚙️ Builder of real-world + digital systems
+- 🚀 Working on multiple production apps and long-term platforms
 
-### 🛡️ Project AEGIS (Tower Defense System)
-- Advanced tower + enemy system
-- Modular upgrade paths
-- Custom VFX, animations, and balancing system
-- Designed for **high replayability and scaling difficulty**
+I design and build:
+- Fullstack web platforms
+- AI-driven systems
+- IoT automation pipelines
+- Game systems (Roblox / Luau)
 
----
-
-### 🌱 ACEGS (AI + IoT Smart Farming System)
-- Automated Controlled-Environment Grow System
-- ESP32 + sensors + AI monitoring
-- Real-world system with **data-driven automation**
+> I don’t ship features — I engineer systems.
 
 ---
 
-### 🧠 NEXUS (AI Ecosystem)
-- Multi-agent AI system:
-  - Xyntrix (Coordinator)
-  - Blackwall (Security)
-  - Noesis (Research)
-  - Sentinel (Monitoring)
-- Local-first architecture with orchestration pipelines
+## ⚡ Tech Stack
+
+### 🧠 Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 
 ---
 
-### 📚 Chapterly (Book Platform)
-- Fullstack marketplace + user system
-- Features:
-  - Authentication
-  - Reviews
-  - Admin system
-  - Return station logic
-- Built with **Next.js + Go backend + PostgreSQL**
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
+![Radix UI](https://img.shields.io/badge/-RadixUI-000)
+![Shadcn](https://img.shields.io/badge/-shadcn/ui-000)
 
 ---
 
-### ⚖️ Law-Based Applications (Client Work)
-- Real-world production apps
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Go Fiber](https://img.shields.io/badge/-Fiber-000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+
+---
+
+### 🤖 AI / Systems
+![OpenAI](https://img.shields.io/badge/-LLM-000)
+![Local AI](https://img.shields.io/badge/-Local%20LLM-000)
+![Automation](https://img.shields.io/badge/-Automation-000)
+![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-000)
+
+---
+
+### 🛠 DevOps / Tools
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
+![Turborepo](https://img.shields.io/badge/-Turborepo-000)
+![Node-RED](https://img.shields.io/badge/-Node--RED-000?&logo=node-red)
+
+---
+
+## 🚀 Projects
+
+### 🌍 Eldora (Roblox RPG)
+- Advanced race + class evolution system
+- Skill trees, progression logic
+- Built for long-term scalability
+
+### 🛡️ Project AEGIS
+- Tower defense system with modular upgrades
+- VFX, animations, balancing architecture
+
+### 🌱 ACEGS (AI + IoT Farming)
+- ESP32-based automation system
+- Sensor-driven environment control
+
+### 🧠 NEXUS AI System
+- Multi-agent AI architecture
+- Local orchestration + system pipelines
+
+### 📚 Chapterly
+- Fullstack book platform
+- Auth, reviews, admin system, return flows
+- Next.js + Go + PostgreSQL
+
+### ⚖️ Client Systems
 - NDA platform (Sue-em)
 - Legal learning platform (Lawflash)
-- Focus on:
-  - UX + system reliability
-  - secure flows (auth, email, payments)
+- Production-ready systems with real users
 
 ---
 
-## 🧠 Tech Stack
+## 📊 GitHub Stats
 
-### Languages
-- TypeScript / JavaScript
-- Go (Fiber)
-- Python
-- C / C++ (Embedded)
-- Lua / Luau (Roblox)
-- Java
+<div align="center">
 
-### Frontend
-- Next.js 16
-- React 19
-- TailwindCSS v4
-- Radix UI / shadcn
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kronoxhellstorm&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kronoxhellstorm&layout=compact&theme=tokyonight" />
 
-### Backend
-- Go (Fiber)
-- Node.js (Elysia / Express)
-- PostgreSQL + Redis
-- REST APIs + system design
+</div>
 
-### AI / Systems
-- Local LLM pipelines
-- AI orchestration systems
-- Multi-agent architecture
-- Prompt engineering + automation
+---
 
-### DevOps / Tools
-- Docker
-- Turborepo
-- Cloudflare (R2, tunnels)
-- GitHub Actions
-- Node-RED
+## 🔥 Streak & Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kronoxhellstorm&theme=tokyonight" />
+
+</div>
 
 ---
 
 ## 🧩 Engineering Philosophy
 
 - Build systems, not scripts  
-- Design for scale from day one  
-- Separate concerns (clean architecture always)  
-- Optimize only after stability  
-- Automation > manual processes  
-
----
-
-## ⚡ Current Focus
-
-- Scaling **Chapterly → production-ready platform**
-- Building **NEXUS AI ecosystem**
-- Expanding **Eldora universe (long-term game system)**
-- Developing **real-world AI + IoT integrations**
-
----
-
-## 🌐 Ecosystem
-
-- 🌍 Portfolio: (coming soon)
-- 🧠 Kronox Systems / Labs (in progress)
-- 📧 Professional email infrastructure (Zoho / custom domain)
+- Architecture > shortcuts  
+- Modular > monolithic thinking  
+- Stability first, optimization later  
+- Automation over manual workflows  
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/your-username
-- Email: your@kronox.tech
+- GitHub: https://github.com/kronoxhellstorm  
+- Email: your@kronox.tech  
 
 ---
 
 ## ⚡ Final Note
 
-I build with one goal:
-
-> Systems that scale. Systems that last.
+> I’m not just writing code.  
+> I’m building systems that scale, evolve, and last.
