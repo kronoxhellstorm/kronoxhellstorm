@@ -94,17 +94,80 @@ My work is structured as interconnected systems rather than isolated projects.
 ## Tech Stack
 
 ### Languages
-TypeScript • JavaScript • Go • Python • C / C++ • Java • Lua (Luau)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![Go](https://img.shields.io/badge/Go-000?logo=go)
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![Java](https://img.shields.io/badge/Java-000?logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?logo=kotlin)
+![C](https://img.shields.io/badge/C-000?logo=c)
+![C++](https://img.shields.io/badge/C++-000?logo=cplusplus)
+![Lua](https://img.shields.io/badge/Lua-000?logo=lua)
 
 ---
 
 ### Frontend
-Next.js • React • TailwindCSS • Radix UI • shadcn/ui
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
+![Radix UI](https://img.shields.io/badge/RadixUI-000)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000)
+![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
 
 ---
 
 ### Backend
-Node.js • Go (Fiber) • PostgreSQL • Redis
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?logo=express)
+![Elysia](https://img.shields.io/badge/Elysia-000)
+![Go Fiber](https://img.shields.io/badge/Fiber-000)
+![REST API](https://img.shields.io/badge/REST-000)
+
+---
+
+### Database & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
+![Cloudflare R2](https://img.shields.io/badge/R2-000?logo=cloudflare)
+
+---
+
+### AI / Systems
+![LLM](https://img.shields.io/badge/LLM-000)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-000)
+![Automation](https://img.shields.io/badge/Automation-000)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-000)
+
+---
+
+### Mobile / Cross-Platform
+![Android](https://img.shields.io/badge/Android-000?logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?logo=kotlin)
+
+---
+
+### Embedded / IoT
+![ESP32](https://img.shields.io/badge/ESP32-000)
+![Arduino](https://img.shields.io/badge/Arduino-000?logo=arduino)
+![Sensors](https://img.shields.io/badge/Sensors-000)
+
+---
+
+### DevOps / Infrastructure
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?logo=cloudflare)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions)
+![Turborepo](https://img.shields.io/badge/Turborepo-000)
+![Node-RED](https://img.shields.io/badge/Node--RED-000?logo=node-red)
+
+---
+
+### Systems / Platforms
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
+![Windows](https://img.shields.io/badge/Windows-000?logo=windows)
+![iOS](https://img.shields.io/badge/iOS-000?logo=apple)
+![Android](https://img.shields.io/badge/Android-000?logo=android)
 
 ---
 
