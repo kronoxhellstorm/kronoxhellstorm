@@ -219,7 +219,7 @@ Docker • Cloudflare • Turborepo • GitHub Actions • Node-RED
 ## Contact
 
 - GitHub: https://github.com/kronoxhellstorm  
-- Email: your@kronox.tech  
+- Email: admin@kronox.tech  
 
 ---
 
