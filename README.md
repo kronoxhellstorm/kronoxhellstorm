@@ -24,8 +24,7 @@ I specialize in designing and building **scalable, modular systems** across mult
 - Game systems and progression architecture
 
 Currently working as:
-- **Full-Stack Software Engineer @ Tenshi**
-- **System Architecture & AI Engineer @ ACEGS**
+- **Full-Stack Software Engineer**
 
 ---
 
